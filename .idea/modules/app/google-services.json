@@ -1,0 +1,212 @@
+{
+  "project_info": {
+    "project_number": "639208212877",
+    "firebase_url": "https://hyperdeal-93098.firebaseio.com",
+    "project_id": "hyperdeal-93098",
+    "storage_bucket": "hyperdeal-93098.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639208212877:android:e6cc83ffa84f37a0cf15c4",
+        "android_client_info": {
+          "package_name": "businessman.hyperdeals.julius.com.hypeardeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639208212877-b0hnk1n2mik99hrlalo6h82he3urq678.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "businessman.hyperdeals.julius.com.hypeardeals",
+            "certificate_hash": "c260d0aa32be9fcba78ffe38c4378349b7c88f4f"
+          }
+        },
+        {
+          "client_id": "639208212877-5rt2s7nei1m9qdsfmn1thg13m5pe3ssb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOLYybSqa9sx-Kq9pVGDeFewByI7E26gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639208212877-5rt2s7nei1m9qdsfmn1thg13m5pe3ssb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639208212877:android:cf44f75e529c227dcf15c4",
+        "android_client_info": {
+          "package_name": "businessmanfinals.hyperdeals.julius.com.hyperdeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639208212877-220daror2tep179nf6vdlg89v7bq2bqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "businessmanfinals.hyperdeals.julius.com.hyperdeals",
+            "certificate_hash": "c260d0aa32be9fcba78ffe38c4378349b7c88f4f"
+          }
+        },
+        {
+          "client_id": "639208212877-5rt2s7nei1m9qdsfmn1thg13m5pe3ssb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOLYybSqa9sx-Kq9pVGDeFewByI7E26gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639208212877-5rt2s7nei1m9qdsfmn1thg13m5pe3ssb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639208212877:android:a4dc6f4bc92ee8c2cf15c4",
+        "android_client_info": {
+          "package_name": "com.example.hyperdealsbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639208212877-9pd9977hfgi01qsg358n1lfptgbeoduv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hyperdealsbusiness",
+            "certificate_hash": "c260d0aa32be9fcba78ffe38c4378349b7c88f4f"
+          }
+        },
+        {
+          "client_id": "639208212877-5rt2s7nei1m9qdsfmn1thg13m5pe3ssb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOLYybSqa9sx-Kq9pVGDeFewByI7E26gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639208212877-5rt2s7nei1m9qdsfmn1thg13m5pe3ssb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639208212877:android:fa223d03ef0e0cdecf15c4",
+        "android_client_info": {
+          "package_name": "com.example.julius.hyperdeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639208212877-frkfikim598ktn4rnhkjsjq2gptpv06t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.julius.hyperdeals",
+            "certificate_hash": "c260d0aa32be9fcba78ffe38c4378349b7c88f4f"
+          }
+        },
+        {
+          "client_id": "639208212877-5rt2s7nei1m9qdsfmn1thg13m5pe3ssb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOLYybSqa9sx-Kq9pVGDeFewByI7E26gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639208212877-5rt2s7nei1m9qdsfmn1thg13m5pe3ssb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639208212877:android:62bc6ec203034aa7",
+        "android_client_info": {
+          "package_name": "com.example.kent.hyperdeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639208212877-bn2qokmfnfhvsgsplqso89mjtk4fd3dj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kent.hyperdeals",
+            "certificate_hash": "e09d26b0b678a79e9182660b8a0e2deda8c83a5d"
+          }
+        },
+        {
+          "client_id": "639208212877-335vc7797loai36q2ghrh4uniptuni11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kent.hyperdeals",
+            "certificate_hash": "813b712811f88d30eb7a66d294e0aa2f7a92ff0b"
+          }
+        },
+        {
+          "client_id": "639208212877-ke1fqtu1rva12flva2r01khg8etj5vgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kent.hyperdeals",
+            "certificate_hash": "38df440c12d136041614263691eead1819ccf2d1"
+          }
+        },
+        {
+          "client_id": "639208212877-5rt2s7nei1m9qdsfmn1thg13m5pe3ssb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOLYybSqa9sx-Kq9pVGDeFewByI7E26gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639208212877-5rt2s7nei1m9qdsfmn1thg13m5pe3ssb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
